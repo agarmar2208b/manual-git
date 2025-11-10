@@ -1,4 +1,4 @@
-# __Manual-Git__  
+# --Manual-Git-- 
 Manual de comandos básicos de Git.
 
 ## `git init`  
